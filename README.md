@@ -6,6 +6,12 @@ This bot allows users to browse products, add items to cart, and place orders di
 
 ---
 
+## 🤖 Live Demo
+
+👉 https://t.me/BoutiqueEleganceBot
+
+---
+
 ## 🚀 Features
 
 - 🛍 Browse Products
