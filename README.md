@@ -30,16 +30,16 @@ This bot allows users to browse products, add items to cart, and place orders di
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](screenshots/home.jpg)
 
 ### Product List
-![Products](screenshots/products.png)
+![Products](screenshots/products.jpg)
 
 ### Cart
-![Cart](screenshots/cart.png)
+![Cart](screenshots/cart.jpg)
 
 ### Admin Panel
-![Admin](screenshots/admin_panel.png)
+![Admin](screenshots/admin.jpg)
 
 ---
 
